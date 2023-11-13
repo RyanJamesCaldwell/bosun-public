@@ -71,4 +71,4 @@ We mention liability throughout these Terms but to put it all in one section:<br
 
 In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that’s on you, not us. We do our darnedest to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent; and in general giving a damn. If you choose to use our Services, thank you for betting on us.<br /><br />
 
-If you have a question about any of these Terms, please contact bosun@gmail.com to start a discussion with us.<br /><br />
+If you have a question about any of these Terms, please contact bosun.app@gmail.com to start a discussion with us.<br /><br />
