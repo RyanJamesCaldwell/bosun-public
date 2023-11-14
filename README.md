@@ -1,5 +1,9 @@
 # Bosun ⛵ 
 
+<p align="center">
+  <img src="https://github.com/RyanJamesCaldwell/bosun-public/assets/11203528/347b830d-c288-4465-9ec7-4ee64387552a" />
+</p>
+
 ⛵ Welcome to Bosun ⛵
 
 Bosun is an affordable Ruby on Rails template that takes care of basic project setup so that you can focus on steering your projects toward profitability.
@@ -23,4 +27,8 @@ Here are the features that are configured for you:
   * View, and reprocess webhooks
   * Flipper & FlipperUI
 * StandardRB
+
+## Disclaimers
+
+By purchasing and using Bosun, you are agreeing to our [Terms and Conditions](terms_and_conditions.md) and [Privacy Policy](privacy_policy.md)
 
