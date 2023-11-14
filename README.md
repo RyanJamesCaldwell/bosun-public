@@ -32,3 +32,7 @@ Here are the features that are configured for you:
 
 By purchasing and using Bosun, you are agreeing to our [Terms and Conditions](terms_and_conditions.md) and [Privacy Policy](privacy_policy.md)
 
+## Contact
+
+I'm a solo founder, and I love to hear feedback about Bosun. If you'd like to provide feedback or otherwise get in touch with me, you can reach me at bosun.app@gmail.com
+
