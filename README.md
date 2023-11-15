@@ -28,6 +28,11 @@ Here are the features that are configured for you:
   * Flipper & FlipperUI
 * StandardRB
 
+## Purchasing Bosun
+[Buy Bosun Starter](https://ryanjamescaldwell.lemonsqueezy.com/checkout/buy/4b673838-67b3-482c-bdc8-87817dc5ff0f)
+
+[Buy Bosun Pro](https://ryanjamescaldwell.lemonsqueezy.com/checkout/buy/f5c80e8d-fe7a-4801-a864-96b09c53643d)
+
 ## Disclaimers
 
 By purchasing and using Bosun, you are agreeing to our [Terms and Conditions](terms_and_conditions.md) and [Privacy Policy](privacy_policy.md)
