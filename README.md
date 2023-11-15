@@ -1,7 +1,7 @@
 # Bosun ⛵ 
 
 <p align="center">
-  <img src="https://github.com/RyanJamesCaldwell/bosun-public/assets/11203528/347b830d-c288-4465-9ec7-4ee64387552a" />
+  <img src="https://github.com/RyanJamesCaldwell/bosun-public/assets/11203528/f57aa906-87c0-4d15-87ee-6ee6a6087f4f" />
 </p>
 
 ⛵ Welcome to Bosun ⛵
